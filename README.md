@@ -1,5 +1,5 @@
 # Pacman_Classification
-# 18020287 - Nguyễn Tiến Đạt
+# 18020146 - Nguyễn Tú Anh
 Câu 1: Perceptron
 
 
